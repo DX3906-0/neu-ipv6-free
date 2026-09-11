@@ -1,0 +1,6 @@
+# 本地运行脚本生成的订阅/配置产物（勿提交）
+subscription*.txt
+clash-free.yaml
+__pycache__/
+*.pyc
+.DS_Store
