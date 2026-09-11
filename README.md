@@ -19,7 +19,7 @@
 
 | 文件 | 说明 |
 |------|------|
-| `docs/部署提示词-全自动.md` | 给下一个智能体(代理)的完整自动部署提示词，含步骤/验收/坑 |
+| `docs/部署提示词.md` | 给下一个智能体(代理)的完整自动部署提示词，含步骤/验收/坑 |
 | `tools/cf_ipv6_selector.py` | 校园网 IPv6 下优选最快 CF 节点（纯 Python,零依赖） |
 | `tools/gen_vless.py` | 从优选 IPv6 生成 VLESS 节点与订阅（占位符版） |
 | `tools/gen_clash_yaml.py` | 从订阅自动生成 Clash/mihomo 的 YAML（占位符版，附自校验） |
